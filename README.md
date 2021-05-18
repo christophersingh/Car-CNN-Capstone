@@ -1,10 +1,6 @@
 # Car-CNN-Capstone
 
-CNN Transfer Learning Implementation Of A Parking Space Detector
-
-Models Implemented Include:
-1. MobileNet V1
-2. ResNet50
-
 Feel free to read the published paper in the 34th Proceedings Of the FLAIRS Artificial Intelligence Conference:
 https://doi.org/10.32473/flairs.v34i1.128470
+
+This research project focuses on the application of computer vision and convolutional neural network techniques in the automotive industry to reduce the amount of time required to locate a vacant parking spot and to reduce driving time. The main motivation for a vacant parking spot detector is such that today’s drivers are facing major difficulties in finding available spots in largely populated cities. This often time leads to increased congestion and frustration for the driver because they are forced to continue their search for a parking spot. Our approach is able to solve this issue and provide the driver with useful information through the use of transfer learning methodologies. The main contribution of this paper is to examine and improve on previously implemented transfer learning methods in order to better increase the detection accuracy. This paper differs from previous attempts such that it considers all environmental factors such as weather and time of day. Other models are not able to handle these conditions with a high accuracy and subsequently falter. When compared to previous attempts, our implementation focuses solely on the reliance of transfer learning. The results indicate that our model is capable of identifying vacant parking spaces under all conditions with competitive accuracies. The proposed model is able to surpass the accuracy of the latest attempt at solving this issue.
